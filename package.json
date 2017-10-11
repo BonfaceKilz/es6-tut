@@ -10,14 +10,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ccoenraets/es6-tutorial.git"
+    "url": "git@github.com:BonfaceKilz/es6-tut.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/ccoenraets/es6-tutorial/issues"
+    "url": "git@github.com:BonfaceKilz/es6-tut.git"
   },
-  "homepage": "https://github.com/ccoenraets/es6-tutorial#readme",
   "devDependencies": {
     "babel-cli": "^6.26.0",
     "babel-core": "^6.26.0",
